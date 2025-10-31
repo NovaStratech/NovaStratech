@@ -1,4 +1,4 @@
-# 👋 Nova Stratech
+# 👋 NovaStratech
 
 > Conseil stratégique, intégration de solutions, développement sur mesure — Innovation Lab
 
